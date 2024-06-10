@@ -1,14 +1,11 @@
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.exe
-C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.deps.json
-C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.runtimeconfig.json
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.dll
-C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.pdb
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\MySql.Data.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\Google.Protobuf.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
-C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\MySql.Data.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\ZstdSharp.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
@@ -18,6 +15,10 @@ C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windo
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.csproj.AssemblyReference.cache
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.Form1.resources
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.FORM.Clientes.resources
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.FORM.Home.resources
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.FORM.Productos.resources
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.FORM.Usuarios.resources
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.csproj.GenerateResource.cache
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.AssemblyInfoInputs.cache
@@ -27,5 +28,8 @@ C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windo
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\refint\segundaDBFranco.dll
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.pdb
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.deps.json
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.runtimeconfig.json
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.pdb
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.genruntimeconfig.cache
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\ref\segundaDBFranco.dll

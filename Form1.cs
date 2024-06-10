@@ -1,4 +1,5 @@
 using MySql.Data.MySqlClient;
+using segundaDBFranco.FORM;
 using segundaDBFranco.Models;
 
 namespace segundaDBFranco
@@ -47,9 +48,13 @@ namespace segundaDBFranco
                 cmd.ExecuteNonQuery();
 
                 int Datos = (int)cmd.ExecuteScalar();
-                if ( Datos > 0 )
+                if (Datos > 0)
                 {
                     MessageBox.Show("Inicio de seccion exitosa");
+                    Home home = new Home();
+                    home.ShowDialog();
+                    Hide();
+                    home.FormClosing += Form1_Shown;
                 }
                 else
                 {
@@ -58,11 +63,16 @@ namespace segundaDBFranco
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);;
+                MessageBox.Show(ex.Message); ;
             }
-       
 
 
+
+        }
+
+        private void Form1_Shown(object? sender, EventArgs e)
+        {
+            Show();
         }
     }
 }

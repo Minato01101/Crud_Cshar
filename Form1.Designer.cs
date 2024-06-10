@@ -60,7 +60,7 @@
             txtUsuario.Location = new Point(144, 136);
             txtUsuario.Name = "txtUsuario";
             txtUsuario.Size = new Size(122, 23);
-            txtUsuario.TabIndex = 2;
+            txtUsuario.TabIndex = 1;
             // 
             // txtClave
             // 
@@ -94,7 +94,7 @@
             btnSiguinete.Location = new Point(144, 268);
             btnSiguinete.Name = "btnSiguinete";
             btnSiguinete.Size = new Size(93, 28);
-            btnSiguinete.TabIndex = 5;
+            btnSiguinete.TabIndex = 3;
             btnSiguinete.Text = "Siguiente";
             btnSiguinete.UseVisualStyleBackColor = true;
             btnSiguinete.Click += btnSiguinete_Click;
@@ -103,7 +103,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(381, 450);
+            ClientSize = new Size(384, 461);
             Controls.Add(btnSiguinete);
             Controls.Add(btnVer);
             Controls.Add(label3);
@@ -113,6 +113,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Shown += Form1_Shown;
             ResumeLayout(false);
             PerformLayout();
         }
