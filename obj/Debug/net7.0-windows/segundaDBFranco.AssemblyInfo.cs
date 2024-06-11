@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("segundaDBFranco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5b348f9d58009fa32e8a51ad53b938b2913e053")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9739dda32633e7278125987125153dcec91b1e03")]
 [assembly: System.Reflection.AssemblyProductAttribute("segundaDBFranco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("segundaDBFranco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
