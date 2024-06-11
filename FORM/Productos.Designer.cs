@@ -176,9 +176,9 @@
             panel1.Controls.Add(label7);
             panel1.Controls.Add(label8);
             panel1.Controls.Add(label9);
-            panel1.Location = new Point(38, 81);
+            panel1.Location = new Point(38, 98);
             panel1.Name = "panel1";
-            panel1.Size = new Size(670, 513);
+            panel1.Size = new Size(670, 496);
             panel1.TabIndex = 12;
             panel1.Visible = false;
             // 

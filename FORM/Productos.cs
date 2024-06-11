@@ -14,7 +14,7 @@ namespace segundaDBFranco.FORM
 {
     public partial class Productos : Form
     {
-        DataTable tb = new DataTable();
+        
         public Productos()
         {
             InitializeComponent();
@@ -41,6 +41,7 @@ namespace segundaDBFranco.FORM
                 dgvProducto.Columns.Add(btnEliminar);
             }
 
+
             cargarProductos();
             limpiar();
         }
@@ -62,7 +63,8 @@ namespace segundaDBFranco.FORM
             MySqlCommand cmd = new MySqlCommand(query, conexion);
             cmd.ExecuteNonQuery();
 
-            MySqlDataAdapter productos = new MySqlDataAdapter(cmd);
+            MySqlDataAdapter productos = new MySqlDataAdapter(cmd); 
+            DataTable tb = new DataTable();
             productos.Fill(tb);
             dgvProducto.DataSource = tb;
             conexion.Close();

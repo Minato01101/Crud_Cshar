@@ -33,3 +33,4 @@ C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windo
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\bin\Debug\net7.0-windows\segundaDBFranco.pdb
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.genruntimeconfig.cache
 C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\ref\segundaDBFranco.dll
+C:\Users\MINEDUCYT\source\Progranacion II\segundaDBFranco\obj\Debug\net7.0-windows\segundaDBFranco.sourcelink.json
