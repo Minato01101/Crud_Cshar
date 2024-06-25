@@ -33,7 +33,7 @@ namespace segundaDBFranco
 
         private void btnSiguinete_Click(object sender, EventArgs e)
         {
-            string usuario = txtUsuario.Text;
+             string usuario = txtUsuario.Text;
             string clave = txtClave.Text;
 
             string query = $"SELECT * FROM tblusuarios WHERE nombre = '{usuario}' AND clave = '{clave}'";
@@ -51,8 +51,9 @@ namespace segundaDBFranco
                 if (Datos > 0)
                 {
                     MessageBox.Show("Inicio de seccion exitosa");
+
                     Home home = new Home();
-                    home.ShowDialog();
+                    home.Show();
                     Hide();
                     home.FormClosing += Form1_Shown;
                 }

@@ -161,7 +161,7 @@ namespace segundaDBFranco.FORM
             string query = "UPDATE tblproductos SET nombre = @nombre, cantidad = @cantidad, precio = @precio WHERE idProductos = @id";
 
             //Abriendo conexio
-            MySqlConnection con = Conexion.MiConexion();
+            MySqlConnection con = Conexion.MiConexion();    
             con.Open();
 
             try

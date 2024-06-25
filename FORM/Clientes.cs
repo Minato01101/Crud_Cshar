@@ -21,11 +21,11 @@ namespace segundaDBFranco.FORM
             InitializeComponent();
         }
 
-        DataTable tb = new DataTable();
+        
 
         private void Clientes_Load(object sender, EventArgs e)
         {
-            if (dgvClientes.Columns["EditarCliente"] == null)
+            if (dgvClientes.Columns["EditarCli  ente"] == null)
             {
                 DataGridViewButtonColumn btnEditarCliente = new DataGridViewButtonColumn();
                 btnEditarCliente.Name = "btnEditarCliente";
@@ -61,7 +61,8 @@ namespace segundaDBFranco.FORM
             {
                 MySqlCommand cmd = new MySqlCommand(query, con);
                 MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
-
+                //JOY
+                DataTable tb = new DataTable();
                 adapter.Fill(tb);
 
                 dgvClientes.DataSource = tb;

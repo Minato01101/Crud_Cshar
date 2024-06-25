@@ -57,11 +57,14 @@
             // 
             // dgvProducto
             // 
+            dgvProducto.AllowUserToAddRows = false;
+            dgvProducto.AllowUserToDeleteRows = false;
             dgvProducto.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             dgvProducto.BorderStyle = BorderStyle.Fixed3D;
             dgvProducto.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvProducto.Location = new Point(38, 356);
             dgvProducto.Name = "dgvProducto";
+            dgvProducto.ReadOnly = true;
             dgvProducto.RowTemplate.Height = 25;
             dgvProducto.Size = new Size(661, 202);
             dgvProducto.TabIndex = 0;
@@ -178,7 +181,7 @@
             panel1.Controls.Add(label9);
             panel1.Location = new Point(38, 98);
             panel1.Name = "panel1";
-            panel1.Size = new Size(670, 496);
+            panel1.Size = new Size(670, 470);
             panel1.TabIndex = 12;
             panel1.Visible = false;
             // 
